@@ -5,4 +5,4 @@ Repo with comments, code and answers from the MlOps Zoomcamp course from DataTal
 
 https://github.com/DataTalksClub/mlops-zoomcamp
 
-[DataTalks] (https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html#mlops-zoomcamp) free courses.
+[DataTalks](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html#mlops-zoomcamp) free courses.
